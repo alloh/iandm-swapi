@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # I & M Swapi
 
 ## About the project
@@ -33,3 +34,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+=======
+# iandm-swapi
+>>>>>>> f6a63e221bc404c74e60d4e8c3551b9e7e5ff96c
